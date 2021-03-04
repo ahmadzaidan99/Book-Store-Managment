@@ -16,6 +16,6 @@ namespace BookShopManagement
     */
     public class Connection
     {
-        public static SqlConnection connect = new SqlConnection("workstation id=bookstore.mssql.somee.com;packet size=4096;user id=trname_SQLLogin_1;pwd=992qrgsk3z;data source=bookstore.mssql.somee.com;persist security info=False;initial catalog=bookstore");
+        public static SqlConnection connect = new SqlConnection("Insert the connection string");
     }
 }
